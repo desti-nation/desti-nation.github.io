@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://desti-nation.github.io</id>
     <title>Pt Blog</title>
-    <updated>2019-12-25T14:32:49.724Z</updated>
+    <updated>2019-12-26T07:42:45.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://desti-nation.github.io"/>
     <link rel="self" href="https://desti-nation.github.io/atom.xml"/>
@@ -10,46 +10,6 @@
     <logo>https://desti-nation.github.io/images/avatar.png</logo>
     <icon>https://desti-nation.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Pt Blog</rights>
-    <entry>
-        <title type="html"><![CDATA[回望 2019]]></title>
-        <id>https://desti-nation.github.io/post/hui-wang-2019</id>
-        <link href="https://desti-nation.github.io/post/hui-wang-2019">
-        </link>
-        <updated>2019-12-24T09:17:21.000Z</updated>
-        <summary type="html"><![CDATA[<p>Pt 的 2019 年终总结。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>Pt 的 2019 年终总结。</p>
-<h2 id="-more-"><!-- more --></h2>
-<p>2019年是我的本命年，过得不算猪飞猛进，也没遇到所谓的“水逆”，平安喜乐，我倒也知足了。</p>
-<p>2018年过得着实有些痛苦，可能是本科生到研究生转型的阵痛吧。新环境新的学习模式总要适应一阵的，而我花了一年。</p>
-<p>所以2018年结束的时候，我在微信朋友圈记录了这么一句话，仅自己可见：</p>
-<blockquote>
-<p>愿2018年的遗憾是2019年收获的铺垫。</p>
-</blockquote>
-<p>些许无奈，些许期待，就这样，2019年来了。</p>
-<hr>
-<p>2019年年初，我给自己定了一些全年的目标，一起来看看（打脸）吧~</p>
-<figure data-type="image" tabindex="1"><img src="https://desti-nation.github.io/post-images/1577180938531.jpg" alt=""></figure>
-<p>总体看来完成了一半，那么2020年的计划就是把剩下一半的计划完成吧 ╮(￣▽￣)╭。</p>
-<h3 id="年终关键词-1-开放">年终关键词 #1 开放</h3>
-<p>我认为人是需要不断和外界进行能量交换的，接受大环境的调节，让自己和外界有物质交换，同时保持内环境的稳态。</p>
-<p>VR Lab 的迎新分享，锻炼了自己在大场合表达自己的能力。</p>
-<h3 id="年终关键词-2-责任">年终关键词 #2 责任</h3>
-<p>对自己工作的责任和担当</p>
-<p>独立承担项目</p>
-<h3 id="年终关键词-3-和解">年终关键词 #3 和解</h3>
-<p>和自己和解</p>
-<p>2020年，又是对我和身边朋友很重要的一年，又是人生的一个十字路口。过了2020年，我们去向已定，即将各奔东西。前几天还在和舍友们讨论，门口挂个什么字好，最后的决定是 paper + offer 到。</p>
-<p>2020年，希望自己提升的几个方面：</p>
-<ol>
-<li>深度思考能力：从现象总结本质规律</li>
-<li>系统架构能力：无论是项目还是科研，从0开始架构整个系统</li>
-<li></li>
-</ol>
-<p>那就拥抱2020年吧，时不我待，增加优化自己的加速度，奥里给！！！</p>
-<figure data-type="image" tabindex="2"><img src="https://desti-nation.github.io/post-images/1577183035641.jpg" alt=""></figure>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://desti-nation.github.io/post/hello-gridea</id>

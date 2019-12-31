@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://desti-nation.github.io</id>
     <title>Pt Blog</title>
-    <updated>2019-12-31T17:30:19.012Z</updated>
+    <updated>2019-12-31T17:34:37.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://desti-nation.github.io"/>
     <link rel="self" href="https://desti-nation.github.io/atom.xml"/>
@@ -19,7 +19,8 @@
         <summary type="html"><![CDATA[<p>Pt 的 2019 年终总结。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>Pt 的 2019 年终总结。</p>
-<h2 id="-more-"><!-- more --></h2>
+<!-- more -->
+<hr>
 <p>2019年是我的本命年，过得不算猪飞猛进，也没遇到所谓的“水逆”，平安喜乐，我倒也知足了。</p>
 <p>2018年有些本科生到研究生转型的阵痛，所以2018年结束的时候，我在微信朋友圈记录了这么一句话，仅自己可见：</p>
 <blockquote>
@@ -53,6 +54,7 @@
 </ol>
 <p>2020年，只争朝夕，不负韶华，增加优化自己的加速度，奥里给！！！</p>
 <figure data-type="image" tabindex="2"><img src="https://desti-nation.github.io/post-images/1577183035641.jpg" alt=""></figure>
+<p>文末附好友 river 的年终总结 https://misty.life/post/13-2019-review/</p>
 ]]></content>
     </entry>
     <entry>

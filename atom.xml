@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://desti-nation.github.io</id>
     <title>Pt Blog</title>
-    <updated>2019-12-26T07:42:45.161Z</updated>
+    <updated>2019-12-31T17:27:43.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://desti-nation.github.io"/>
     <link rel="self" href="https://desti-nation.github.io/atom.xml"/>
     <subtitle>为祖国健康工作50年</subtitle>
     <logo>https://desti-nation.github.io/images/avatar.png</logo>
     <icon>https://desti-nation.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Pt Blog</rights>
+    <rights>All rights reserved 2020, Pt Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://desti-nation.github.io/post/hello-gridea</id>
